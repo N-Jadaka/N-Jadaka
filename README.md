@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamalx 
+- 👋 Hi, I’m Jamal 
 - 👀 I’m interested in Marvel Comics, Pizza, Java, Angular, Spring, and TypeScript.
 - 🌱 I’m currently learning Java, Spring, SQL.
 - 💞️ I’m looking to collaborate on Spring and Angular projects.
