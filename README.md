@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Josh 
+- 👋 Hi, I’m Jamalx 
 - 👀 I’m interested in Marvel Comics, Pizza, Java, Angular, Spring, and TypeScript.
 - 🌱 I’m currently learning Java, Spring, SQL.
 - 💞️ I’m looking to collaborate on Spring and Angular projects.
-- 📫 How to reach me? E-mail me jnezia1@gmail.com
+- 📫 How to reach me? E-mail me jnezia1@hotmail.com
 
 <!---
 N-Jadaka/N-Jadaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
